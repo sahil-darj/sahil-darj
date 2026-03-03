@@ -7,13 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2800&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Interview+Platform+Builder;Frontend+Specialist;AI+%7C+Cloud+%7C+Modern+Web;Designing+Clean+%26+Scalable+Systems" />
 </h3>
 
-<!-- ====== ANIMATED WAVE HEADER ====== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sahil%20Darji&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Interview+Platform+Builder;Frontend+Specialist;AI+%7C+Cloud+%7C+Modern+Web" />
-</h2>
 
 <p align="center">
   <a href="mailto:darjisahil46@gmail.com">
@@ -155,12 +149,4 @@ GTU (2021 – 2024)
 <p align="center">⭐ From <a href="https://github.com/sahil-darj">sahil-darj</a></p> make it crazy animated , and also add im talkng about osmeting game or soemthikng i mean animation ata that end then sometng game or sometujng  this one cool just cool heading with my name and that typeing eefetc goo d just change the color  and add thisd at last <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p> 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
----
-
-<h3 align="center">⚡ Code. Build. Innovate. Repeat. ⚡</h3>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:24243e,100:302b63&section=footer"/>
