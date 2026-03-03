@@ -146,7 +146,7 @@ GTU (2021 – 2024)
 
 <h3 align="center">⚡ Building Scalable Web Apps | Designing Clean UI | Exploring AI ⚡</h3>
 
-<p align="center">⭐ From <a href="https://github.com/sahil-darj">sahil-darj</a></p> make it crazy animated , and also add im talkng about osmeting game or soemthikng i mean animation ata that end then sometng game or sometujng  this one cool just cool heading with my name and that typeing eefetc goo d just change the color  and add thisd at last <p align="center">
+
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p> 
 
