@@ -25,11 +25,7 @@
 <!-- ===================== BADGES ===================== -->
 
 <p align="center">
-  <img src="https://img.shields.io/github/profile-views/sahil-darj?label=Profile%20Views&color=00F7FF&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahil-darj&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/badge/Profile%20Views-Available-00F7FF?style=for-the-badge" />
 </p>
 
 ---
@@ -45,43 +41,69 @@
 
 ---
 
+
+
 # 🧠 Tech Stack
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+<br>
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,threejs,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=threejs" height="55"/>
+</p>
 
-</td>
-
-<td align="center" width="50%">
+<br><br>
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,php" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" height="55"/>
+</p>
 
-</td>
-</tr>
-
-<tr>
-<td align="center">
+<br><br>
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,sql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sql" height="55"/>
+</p>
 
-</td>
-
-<td align="center">
+<br><br>
 
 ### ☁️ Tools & Cloud
-<img src="https://skillicons.dev/icons?i=git,github,vercel,aws,gcp,postman,figma,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp" height="55"/>
+</p>
 
-</td>
-</tr>
-</table>
 
 ---
+
 
 # 💼 Experience
 
@@ -92,19 +114,16 @@
 - Developed secure REST APIs with JWT Authentication  
 - Delivered production-ready client solutions  
 
-**Client Projects:**  
-- 🚗 Visa & Passport Services – React.js Website  
-- 🏢 Naroda Group – Database Integrated Website  
-- 🏭 Arrow Laser Machine – Industrial Showcase  
+#### 🚀 Client Projects
 
----
+- 🚗 **Visa & Passport Services**  
+  🔗 Live: https://your-live-link.com  
 
-### 🤖 AI & Cloud Intern  
-IBM SkillsBuild & Edunet Foundation | Jul 2025 – Oct 2025  
+- 🏢 **Naroda Group**  
+  🔗 Live: https://narodagroup.com  
 
-- Built ML models using IBM AutoAI  
-- Developed AI agents using Watson Assistant  
-- Integrated REST APIs with best practices  
+- 🏭 **Arrow Laser Machine**  
+  🔗 Live: https://your-live-link.com  
 
 ---
 
