@@ -22,12 +22,14 @@
   </a>
 </p>
 
+<!-- ===================== BADGES ===================== -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahil-darj&label=Profile%20Views&color=00F7FF&style=flat" />
+  <img src="https://img.shields.io/github/profile-views/sahil-darj?label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahil-darj&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sahil-darj&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -45,9 +47,64 @@
 
 # 🧠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,django,mongodb,mysql,aws,gcp,threejs,figma&perline=7" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,threejs,html,css" />
+
+</td>
+
+<td align="center" width="50%">
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,php" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,sql" />
+
+</td>
+
+<td align="center">
+
+### ☁️ Tools & Cloud
+<img src="https://skillicons.dev/icons?i=git,github,vercel,aws,gcp,postman,figma,linux" />
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💼 Experience
+
+### 🏢 Full Stack Developer Intern  
+**Vibrant India Tech** | Nov 2025 – Present  
+
+- Built scalable MERN stack applications  
+- Developed secure REST APIs with JWT Authentication  
+- Delivered production-ready client solutions  
+
+**Client Projects:**  
+- 🚗 Visa & Passport Services – React.js Website  
+- 🏢 Naroda Group – Database Integrated Website  
+- 🏭 Arrow Laser Machine – Industrial Showcase  
+
+---
+
+### 🤖 AI & Cloud Intern  
+IBM SkillsBuild & Edunet Foundation | Jul 2025 – Oct 2025  
+
+- Built ML models using IBM AutoAI  
+- Developed AI agents using Watson Assistant  
+- Integrated REST APIs with best practices  
 
 ---
 
