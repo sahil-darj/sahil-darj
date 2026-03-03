@@ -22,7 +22,10 @@
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-darj&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-darj" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-darj" alt="sahil-darj" /></a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-Active-00F7FF?style=for-the-badge&logo=github" />
+</p>
+
 
 ---
 
@@ -109,13 +112,14 @@ Django • ML Integration • Authentication
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahil-darj&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-darj&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahil-darj&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&cache_seconds=1800" height="170"/>
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-darj&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF"/>
+  <img src="https://streak-stats.demolab.com?user=sahil-darj&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF" height="170"/>
 </p>
+
 
 ---
 
