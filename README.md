@@ -43,62 +43,35 @@
 
 
 
+ 
+
+
+
 # 🧠 Tech Stack
 
-<br>
-
-### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=threejs" height="55"/>
+## 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,php,sql,c,cpp" />
 </p>
 
-<br><br>
-
-### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=django" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=php" height="55"/>
+## 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,threejs" />
 </p>
 
-<br><br>
-
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sql" height="55"/>
+## ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 </p>
 
-<br><br>
+## 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-### ☁️ Tools & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" height="55"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=gcp" height="55"/>
+## ☁️ Tools & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,aws,gcp,postman,figma,linux" />
 </p>
 
 
