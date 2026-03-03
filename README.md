@@ -23,8 +23,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-Active-00F7FF?style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=sahil-darj&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 </p>
+
 
 
 ---
