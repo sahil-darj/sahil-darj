@@ -22,11 +22,7 @@
   </a>
 </p>
 
-<!-- ===================== BADGES ===================== -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-Available-00F7FF?style=for-the-badge" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-darj&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-darj" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-darj" alt="sahil-darj" /></a> </p>
 
 ---
 
@@ -88,15 +84,15 @@
 - Delivered production-ready client solutions  
 
 #### 🚀 Client Projects
-
-- 🚗 **Visa & Passport Services**  
-  🔗 Live: https://your-live-link.com  
-
 - 🏢 **Naroda Group**  
   🔗 Live: https://narodagroup.com  
 
+- 🚗 **Visa & Passport Services**  
+  🔗 Live: https://passprt-visa.vercel.app/
+
+
 - 🏭 **Arrow Laser Machine**  
-  🔗 Live: https://your-live-link.com  
+  🔗 Live: https://arrowlasermachine.com/
 
 ---
 
