@@ -3,15 +3,23 @@
 <h1 align="center">Hi 👋, I'm Sahil Darji</h1>
 <h3 align="center">Full Stack Developer | Frontend Specialist | AI Enthusiast 🇮🇳</h3>
 
+<!-- ====== ANIMATED WAVE HEADER ====== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sahil%20Darji&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Interview+Platform+Builder;Frontend+Specialist;AI+%7C+Cloud+%7C+Modern+Web" />
+</h2>
+
 <p align="center">
   <a href="mailto:darjisahil46@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
   <a href="https://linkedin.com/in/sahil-darji">
-    <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Darji-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://github.com/sahil-darj">
-    <img src="https://img.shields.io/badge/GitHub-sahil--darj-black?style=for-the-badge&logo=github">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 </p>
 
@@ -27,7 +35,7 @@
 
 # 🚀 About Me
 
-- 🔭 Currently building **Premium Car Dealership Platform**
+- 🔭 Currently building **AI Interview Practice Platform**
 - 💼 Full Stack Developer Intern @ Vibrant India Tech
 - 🤖 Former AI & Cloud Intern @ IBM SkillsBuild
 - 🌱 Learning **Django, C++, Deep Learning, WordPress**
